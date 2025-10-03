@@ -1,0 +1,3 @@
+# Team Members
+Leader: bougrich
+Skills: Git basics
